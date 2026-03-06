@@ -1,7 +1,7 @@
 const data = {
 
     "5":[
-    "Mathe fällt aus (3. Stunde)",
+    "5a Mathe (Mendel) entfällt (3-4. Stunde)",
     "Englisch Vertretung – Raum 204"
     ],
     
