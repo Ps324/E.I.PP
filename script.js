@@ -9,9 +9,8 @@ const data = {
     "6c Sport (Ft) 1-2 entfällt",
     "Deutsch (Sor -> Wek) 5-6 Vertretung"
     ],
-    
-    "7":[
-    "Keine Vertretungen"
+    "7": [
+      "Keine Vertretungen"
     ],
     
     "8":[
@@ -37,39 +36,41 @@ const data = {
     "KS2":[
     "Deutsch Basiskurs (Sor) 1-2 Entfällt"
     ]
-    
-    };
-    
-    
-    const select = document.getElementById("classSelect");
-    const output = document.getElementById("vertretungsOutput");
-    
-    select.addEventListener("change", function(){
-    
-    const value = select.value;
-    
+  };
+  
+  const select = document.getElementById("classSelect");
+  const output = document.getElementById("vertretungsOutput");
+  
+  function renderOutput(value) {
     output.innerHTML = "";
-    
-    if(!value){
-    output.innerHTML = "Bitte Klasse auswählen.";
-    return;
+  
+    if (!value) {
+      output.innerHTML = '<p class="output-empty">Bitte Klasse auswählen.</p>';
+      return;
     }
-    
-    const list = data[value];
-    
-    if(list.length === 1 && list[0] === "Keine Vertretungen"){
-    output.innerHTML = "<p>Keine Vertretungen.</p>";
-    return;
+  
+    const list = data[value] || [];
+  
+    if (list.length === 1 && list[0] === "Keine Vertretungen") {
+      output.innerHTML = `
+        <div class="status-card success">
+          <p><strong>Gute Nachricht:</strong> Für diese Klassenstufe gibt es aktuell keine Vertretungen.</p>
+        </div>
+      `;
+      return;
     }
-    
-    let html = "<ul>";
-    
-    list.forEach(item=>{
-    html += "<li>"+item+"</li>";
+  
+    let html = '<ul class="output-list">';
+    list.forEach((item) => {
+      html += `<li>${item}</li>`;
     });
-    
-    html += "</ul>";
-    
+    html += '</ul>';
+  
     output.innerHTML = html;
-    
-    });
+  }
+  
+  select.addEventListener("change", () => {
+    renderOutput(select.value);
+  });
+  
+  renderOutput("");

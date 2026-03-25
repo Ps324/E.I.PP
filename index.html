@@ -1,129 +1,198 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>EI Heidelberg – Infoportal</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EI Heidelberg – Infoportal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
+  <header class="site-header">
+    <div class="brand">
+      <span class="brand-badge">EI</span>
+      <div>
+        <p class="eyebrow">Schulportal</p>
+        <h1>Englisches Institut Heidelberg</h1>
+      </div>
+    </div>
 
-<header>
-<h1>Englisches Institut Heidelberg</h1>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="#speiseplan">Speiseplan</a></li>
+        <li><a href="#vertretung">Vertretungsplan</a></li>
+        <li><a href="#termine">Termine</a></li>
+      </ul>
+    </nav>
+  </header>
 
-<nav>
-<ul>
-<li><a href="#speiseplan">Speiseplan</a></li>
-<li><a href="#vertretung">Vertretungsplan</a></li>
-<li><a href="#termine">Termine</a></li>
-</ul>
-</nav>
-</header>
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <p class="eyebrow">Alles Wichtige an einem Ort</p>
+        <h2>Dein Schul-Infoportal</h2>
+        <p class="hero-text">Speiseplan, Vertretungen und wichtige Termine übersichtlich, modern und schnell erreichbar.</p>
 
-<section class="hero">
-<h2>Schul-Infoportal</h2>
-<p>Speiseplan, Vertretungen und Termine auf einen Blick</p>
-</section>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#vertretung">Vertretungen ansehen</a>
+          <a class="btn btn-secondary" href="#termine">Zu den Terminen</a>
+        </div>
+      </div>
 
+      <div class="hero-cards">
+        <article class="info-card accent-blue">
+          <span class="info-label">Heute beliebt</span>
+          <h3>Vertretungsplan</h3>
+          <p>Wähle deine Klassenstufe aus und sieh sofort alle Änderungen.</p>
+        </article>
 
-<section id="speiseplan" class="section">
-<h2>Speiseplan (Diese Woche)</h2>
+        <article class="info-card accent-gold">
+          <span class="info-label">Diese Woche</span>
+          <h3>Speiseplan</h3>
+          <p>Alle Menüs inklusive Preisen klar dargestellt.</p>
+        </article>
+      </div>
+    </section>
 
-<table>
-<tr>
-<th>Tag</th>
-<th>Menü1</th>
-<th>Menü2</th>
-</tr>
+    <section class="quick-links section-narrow">
+      <a class="quick-link" href="#speiseplan">
+        <span class="quick-link-title">Speiseplan</span>
+        <span class="quick-link-text">Essensangebote der Woche</span>
+      </a>
+      <a class="quick-link" href="#vertretung">
+        <span class="quick-link-title">Vertretungsplan</span>
+        <span class="quick-link-text">Schnell nach Klassenstufe filtern</span>
+      </a>
+      <a class="quick-link" href="#termine">
+        <span class="quick-link-title">Termine</span>
+        <span class="quick-link-text">Anstehende Veranstaltungen</span>
+      </a>
+    </section>
 
-<tr>
-<td>Montag</td>
-<td>Nudeln mit Tomatensoße - 3,00 €</td>
-<td>Spaghetti Bolognese - 4,30 €</td>
-</tr>
+    <section id="speiseplan" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Mensa</p>
+        <h2>Speiseplan dieser Woche</h2>
+        <p>Alle Gerichte auf einen Blick – übersichtlich für den schnellen Check in der Pause.</p>
+      </div>
 
-<tr>
-<td>Dienstag</td>
-<td>Vegetarische Bowl - 3,00 €</td>
-<td>Hähnchenbowl - 4,30 €</td>
-</tr>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>Tag</th>
+              <th>Menü 1</th>
+              <th>Menü 2</th>
+              <th>Preis</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td data-label="Tag">Montag</td>
+              <td data-label="Menü 1">Nudeln mit Tomatensoße</td>
+              <td data-label="Menü 2">Spaghetti Bolognese</td>
+              <td data-label="Preis">3,00 € / 4,30 €</td>
+            </tr>
+            <tr>
+              <td data-label="Tag">Dienstag</td>
+              <td data-label="Menü 1">Vegetarische Bowl</td>
+              <td data-label="Menü 2">Hähnchenbowl</td>
+              <td>3,00 € / 4,30 €</td>
+            </tr>
+            <tr>
+              <td data-label="Tag">Mittwoch <span class="highlight-pill">fleischfrei</span></td>
+              <td data-label="Menü 1">Vegetarische Lasagne</td>
+              <td data-label="Menü 2">Kartoffelgratin</td>
+              <td>3,00 € / 4,30 €</td>
+            </tr>
+            <tr>
+              <td data-label="Tag">Donnerstag</td>
+              <td data-label="Menü 1">Gemüsesuppe</td>
+              <td data-label="Menü 2">Linseneintopf mit Bockwurst</td>
+              <td>3,00 € / 4,30 €</td>
+            </tr>
+            <tr>
+              <td data-label="Tag">Freitag</td>
+              <td data-label="Menü 1">Kaiserschmarrn</td>
+              <td data-label="Menü 2">Fischeintopf</td>
+              <td>3,00 € / 4,30 €</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
 
-<tr>
-<td>Mittwoch (Fleischfreier Tag)</td>
-<td>Vegetarische Lasagne - 3,00 €</td>
-<td>Kartoffelgratin - 4,30 €</td>
-</tr>
+    <section id="vertretung" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Unterricht</p>
+        <h2>Vertretungsplan</h2>
+        <p>Wähle deine Klassenstufe aus, um aktuelle Änderungen direkt angezeigt zu bekommen.</p>
+      </div>
 
-<tr>
-<td>Donnerstag</td>
-<td>Gemüsesuppe - 3,00 €</td>
-<td>Linseneintopf mit Bockwurst - 4,30 €</td>
-</tr>
+      <div class="vertretung-card">
+        <label for="classSelect">Klassenstufe auswählen</label>
+        <div class="select-wrapper">
+          <select id="classSelect">
+            <option value="">-- Bitte wählen --</option>
+            <option value="5">Klasse 5</option>
+            <option value="6">Klasse 6</option>
+            <option value="7">Klasse 7</option>
+            <option value="8">Klasse 8</option>
+            <option value="9">Klasse 9</option>
+            <option value="10">Klasse 10</option>
+            <option value="11">Klasse 11</option>
+            <option value="KS1">Kursstufe 1</option>
+            <option value="KS2">Kursstufe 2</option>
+          </select>
+        </div>
 
-<tr>
-<td>Freitag</td>
-<td>Kaiserschmarn - 3,00 €</td>
-<td>Fischeintopf - 4,30 €</td>
-</tr>
+        <div id="vertretungsOutput" class="output-placeholder">
+          <p>Bitte Klasse auswählen.</p>
+        </div>
+      </div>
+    </section>
 
-</table>
-</section>
+    <section id="termine" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Kalender</p>
+        <h2>Anstehende Termine</h2>
+        <p>Die nächsten schulischen Veranstaltungen kompakt und übersichtlich dargestellt.</p>
+      </div>
 
+      <div class="events-grid">
+        <article class="event-card">
+          <span class="event-date">12. März</span>
+          <h3>Theateraufführung der Oberstufe</h3>
+          <p>Kultureller Abend mit Aufführungen aus der Oberstufe.</p>
+        </article>
 
-<section id="vertretung" class="section">
-<h2>Vertretungsplan</h2>
+        <article class="event-card">
+          <span class="event-date">18. März</span>
+          <h3>Elternabend Klasse 7</h3>
+          <p>Wichtige Informationen und Austausch mit Lehrkräften.</p>
+        </article>
 
-<label>Klassenstufe auswählen:</label>
+        <article class="event-card">
+          <span class="event-date">25. März</span>
+          <h3>Projekttag Nachhaltigkeit</h3>
+          <p>Aktionen, Workshops und Ideen rund um nachhaltiges Handeln.</p>
+        </article>
 
-<select id="classSelect">
-<option value="">-- Bitte wählen --</option>
-<option value="5">Klasse 5</option>
-<option value="6">Klasse 6</option>
-<option value="7">Klasse 7</option>
-<option value="8">Klasse 8</option>
-<option value="9">Klasse 9</option>
-<option value="10">Klasse 10</option>
-<option value="11">Klasse 11</option>
-<option value="KS1">Kursstufe 1</option>
-<option value="KS2">Kursstufe 2</option>
-</select>
+        <article class="event-card">
+          <span class="event-date">02. April</span>
+          <h3>Frühlingskonzert</h3>
+          <p>Musikalischer Abend mit Beiträgen verschiedener Jahrgänge.</p>
+        </article>
+      </div>
+    </section>
+  </main>
 
-<div id="vertretungsOutput"></div>
+  <footer>
+    <p>Experimentelle Webseite – nicht offiziell</p>
+  </footer>
 
-</section>
-
-
-<section id="termine" class="section">
-<h2>Anstehende Termine</h2>
-
-<ul class="events">
-
-<li>
-<strong>12. März</strong> – Theateraufführung der Oberstufe
-</li>
-
-<li>
-<strong>18. März</strong> – Elternabend Klasse 7
-</li>
-
-<li>
-<strong>25. März</strong> – Projekttag Nachhaltigkeit
-</li>
-
-<li>
-<strong>02. April</strong> – Frühlingskonzert
-</li>
-
-</ul>
-
-</section>
-
-<footer>
-<p>Experimentelle Webseite – nicht offiziell</p>
-</footer>
-
-<script src="script.js"></script>
-
+  <script src="script.js"></script>
 </body>
 </html>
