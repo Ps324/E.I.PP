@@ -7,7 +7,7 @@ const data = {
     
     "6":[
     "Sport entfällt",
-    "Deutsch Vertretung – Herr Müller"
+    "Deutsch Vertretung – Herr Schork"
     ],
     
     "7":[
@@ -23,7 +23,7 @@ const data = {
     ],
     
     "10":[
-    "Chemie Vertretung – Frau Schmidt"
+    "Chemie Vertretung – Frau Gade"
     ],
     
     "11":[
