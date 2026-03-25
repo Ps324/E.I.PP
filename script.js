@@ -1,13 +1,13 @@
 const data = {
 
     "5":[
-    "5a Mathe (Mendel) entfällt (3-4. Stunde)",
-    "Englisch Vertretung – Raum 204"
+    "5a Mathe (Me) 3-4 entfällt",
+    "5d Englisch (Meu -> And) 5-6 Vertretung"
     ],
     
     "6":[
-    "Sport entfällt",
-    "Deutsch Vertretung – Herr Schork"
+    "6c Sport (Ft) 1-2 entfällt",
+    "Deutsch (Sor -> Wek) 5-6 Vertretung"
     ],
     
     "7":[
@@ -15,27 +15,27 @@ const data = {
     ],
     
     "8":[
-    "Biologie Vertretung – Raum 105"
+    "Biologie (Seg -> Ve) 3-4 Vertretung"
     ],
     
     "9":[
-    "Geschichte entfällt"
+    "Geschichte (Ruh) 8-9 entfällt"
     ],
     
     "10":[
-    "Chemie Vertretung – Frau Gade"
+    "Chemie (Ga -> Enr) 3-4 Vertretung"
     ],
     
     "11":[
-    "Physik Vertretung – Raum 301"
+    "Physik (Len) 1-2 Raumwechsel 301 -> 306"
     ],
     
     "KS1":[
-    "Mathe Kurs Vertretung"
+    "Mathe Leistungskurs (Men) 8-9 Entfällt"
     ],
     
     "KS2":[
-    "Deutsch Kurs entfällt"
+    "Deutsch Basiskurs (Sor) 1-2 Entfällt"
     ]
     
     };
