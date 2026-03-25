@@ -7,26 +7,26 @@ const data = {
     
     "6":[
     "6c Sport (Ft) 1-2 entfällt",
-    "Deutsch (Sor -> Wek) 5-6 Vertretung"
+    "6c Deutsch (Sor -> Wek) 5-6 Vertretung"
     ],
     "7": [
       "Keine Vertretungen"
     ],
     
     "8":[
-    "Biologie (Seg -> Ve) 3-4 Vertretung"
+    "8d Biologie (Seg -> Ve) 3-4 Vertretung"
     ],
     
     "9":[
-    "Geschichte (Ruh) 8-9 entfällt"
+    "9d Geschichte (Ruh) 8-9 entfällt"
     ],
     
     "10":[
-    "Chemie (Ga -> Enr) 3-4 Vertretung"
+    "10c Chemie (Ga -> Enr) 3-4 Vertretung"
     ],
     
     "11":[
-    "Physik (Len) 1-2 Raumwechsel 301 -> 306"
+    "11a Physik (Len) 1-2 Raumwechsel 301 -> 306"
     ],
     
     "KS1":[
