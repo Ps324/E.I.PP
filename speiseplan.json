@@ -1,0 +1,38 @@
+{
+  "Mi. 22.04.": [
+    {
+      "menu": "Menü 1",
+      "title": "Couscous-Gemüse-Bratlinge",
+      "description": "mit Grillgemüse und Humus-Dip (17,19,27)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Nudeln",
+      "description": "mit Tomaten-Basilikum-Soße und geriebenem Käse (17,23)"
+    }
+  ],
+  "Do. 23.04.": [
+    {
+      "menu": "Menü 1",
+      "title": "Linsen-Gemüse-Curry",
+      "description": "dazu Pitabrot (17)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Döner (Huhn/Veggie) (17,23)",
+      "description": "mit Zwiebeln, Gurken, Tomaten, Kraut und Dönersoße"
+    }
+  ],
+  "Fr. 24.04.": [
+    {
+      "menu": "Menü 1",
+      "title": "Kartoffeln",
+      "description": "mit „Frankfurter Grüne Soße“ (19,23)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Fischauflauf",
+      "description": "mit Kartoffelpüree überbacken (20,23)"
+    }
+  ]
+}

@@ -74,3 +74,53 @@ const data = {
   });
   
   renderOutput("");
+
+  async function loadMenu() {
+    try {
+      const response = await fetch("speiseplan.json");
+      const data = await response.json();
+  
+      const tableBody = document.getElementById("menuTableBody");
+      tableBody.innerHTML = "";
+  
+      // Mapping für bessere Anzeige
+      const dayMap = {
+        "Mo": "Montag",
+        "Di": "Dienstag",
+        "Mi": "Mittwoch",
+        "Do": "Donnerstag",
+        "Fr": "Freitag"
+      };
+  
+      for (const [date, menus] of Object.entries(data)) {
+        const row = document.createElement("tr");
+  
+        // Tag extrahieren (Mi. → Mittwoch)
+        const shortDay = date.split(".")[0];
+        const dayName = dayMap[shortDay] || date;
+  
+        // Menü 1 und 2 finden
+        const menu1 = menus.find(m => m.menu === "Menü 1");
+        const menu2 = menus.find(m => m.menu === "Menü 2");
+  
+        row.innerHTML = `
+          <td data-label="Tag">${dayName}</td>
+          <td data-label="Menü 1">
+            ${menu1 ? menu1.title + "<br><small>" + menu1.description + "</small>" : "-"}
+          </td>
+          <td data-label="Menü 2">
+            ${menu2 ? menu2.title + "<br><small>" + menu2.description + "</small>" : "-"}
+          </td>
+          <td data-label="Preis">3,00 € / 4,30 €</td>
+        `;
+  
+        tableBody.appendChild(row);
+      }
+  
+    } catch (error) {
+      console.error("Fehler beim Laden des Speiseplans:", error);
+    }
+  }
+  
+  // Beim Laden der Seite ausführen
+  loadMenu();
