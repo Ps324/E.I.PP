@@ -6,6 +6,10 @@ on:
     - cron: '0 19 * * 0'   # Sonntag um 19:00 UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+  
 jobs:
   run-script:
     runs-on: ubuntu-latest
