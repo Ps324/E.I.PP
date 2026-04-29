@@ -1,0 +1,40 @@
+name: Daily Python Script
+
+on:
+  schedule:
+    - cron: '0 6 * * 1-5'  # Montag bis Freitag um 06:00 UTC
+    - cron: '0 19 * * 0'   # Sonntag um 19:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run Python script
+        run: python scrape.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add speiseplan.json
+          git commit -m "Update speiseplan.json via scrape.py" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Ps324/E.I.PP.git
+        
