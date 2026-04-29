@@ -37,4 +37,5 @@ jobs:
           git add speiseplan.json
           git commit -m "Update speiseplan.json via scrape.py" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Ps324/E.I.PP.git
+          git push
         
