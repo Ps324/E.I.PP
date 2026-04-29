@@ -1,3 +1,50 @@
+const allergenIcons = {
+  "1": "🧂",   // Phosphat
+  "2": "🧠",   // Geschmacksverstärker
+  "3": "🍋",   // Antioxidationsmittel
+  "4": "🫙",   // Konservierungsstoff
+  "5": "🥓",   // Nitritpökelsalz
+  "6": "🎨",   // Farbstoff
+  "7": "🍬",   // Süßstoff
+  "8": "🍸",   // Chininhaltig
+  "9": "🍇",   // Geschwefelt
+  "10": "☕",  // Koffein
+  "11": "🍏",  // Gewachst
+  "12": "⚫",  // Geschwärzt
+  "13": "🐄",  // Milcheiweiß
+  "14": "🥚",  // Eiklar
+  "15": "🌽",  // Stärke
+  "16": "📦",  // Verpackungshinweis
+  "17": "🌾",
+  "18": "🦐",
+  "19": "🥚",
+  "20": "🐟",
+  "21": "🥜",
+  "22": "🫘",
+  "23": "🥛",
+  "24": "🌰",
+  "25": "🥬",
+  "26": "🌭",
+  "27": "🌱",
+  "28": "🍷",
+  "29": "🌿",
+  "30": "🦪"
+};
+
+function replaceAllergens(text) {
+  return text.replace(/\(([\d,]+)\)/g, (match, numbers) => {
+    const links = numbers
+      .split(",")
+      .map(num => {
+        const icon = allergenIcons[num.trim()];
+        if (!icon) return "";
+        return `<a href="#allergen-${num.trim()}" class="allergen-link">${icon}</a>`;
+      })
+      .join(" ");
+    return links ? ` ${links}` : "";
+  });
+}
+
 const data = {
 
     "5":[
@@ -106,10 +153,10 @@ const data = {
         row.innerHTML = `
           <td data-label="Tag">${dayName}</td>
           <td data-label="Menü 1">
-            ${menu1 ? menu1.title + "<br><small>" + menu1.description + "</small>" : "-"}
+          ${menu1 ? replaceAllergens(menu1.title) + "<br><small>" + replaceAllergens(menu1.description) + "</small>" : "-"}
           </td>
           <td data-label="Menü 2">
-            ${menu2 ? menu2.title + "<br><small>" + menu2.description + "</small>" : "-"}
+          ${menu2 ? replaceAllergens(menu2.title) + "<br><small>" + replaceAllergens(menu2.description) + "</small>" : "-"}
           </td>
           <td data-label="Preis">3,00 € / 4,30 €</td>
         `;
