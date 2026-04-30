@@ -2,37 +2,61 @@
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelpuffer (17,19)",
-      "description": "mit Kräuterquark (23) und Rohkostgemüse"
+      "title": "Green Wrap",
+      "description": "mit Gemüse und Fetakäse gefüllt (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Veggie Schnitzel (17,23)",
-      "description": "mit Kartoffeln und Gemüse"
+      "title": "Schupfnudeln (17)",
+      "description": "mit Apfelbrei oder Sauerkraut"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Kaiserschmarrn (17,19,23)",
-      "description": "mit Apfelkompott oder Beeren"
+      "title": "Kartoffel-Spargel-Gratin (23)",
+      "description": "Kartoffel- und Spargel-Auflauf mit Käse überbacken"
     },
     {
       "menu": "Menü 2",
-      "title": "Chili con Carne",
-      "description": "mit Rind, Bohnen, Mais und Paprika, dazu Brot (17)"
+      "title": "Putengyros",
+      "description": "mit Reis, Zwiebeln und Tzaziki (23)"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Mai-Falafel bowl",
+      "description": "mit Couscous, Rohkost und Tahin-Dressing (17,27)"
     },
     {
       "menu": "Menü 2",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Käsespätzle",
+      "description": "mit Bergkäse und Zwiebeln (17,19,23)"
+    }
+  ],
+  "Mo.": [
+    {
+      "menu": "Menü 1",
+      "title": "Chili sin Carne",
+      "description": "mit Linsen und Soja, dazu Fladenbrot (17,22)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Tortellini Fleisch/Veggie",
+      "description": "mit Tomatensoße und Käse (17,23)"
+    }
+  ],
+  "Di.": [
+    {
+      "menu": "Menü 1",
+      "title": "Nudeln (17,23,24)",
+      "description": "mit Bärlauch-Pesto und getrockneten Tomaten"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Burger (Beef/Chicken/Veggie) (17)",
+      "description": "mit Tomaten, Gurken, Zwiebeln und Kartoffelecken"
     }
   ]
 }
