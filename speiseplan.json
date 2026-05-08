@@ -2,49 +2,61 @@
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Nudeln (17,23,24)",
-      "description": "mit Bärlauch-Pesto und getrockneten Tomaten"
+      "title": "Gnocchi",
+      "description": "mit Käsesoße und Brokkoli-Gemüse (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Burger (Beef/Chicken/Veggie) (17)",
-      "description": "mit Tomaten, Gurken, Zwiebeln und Kartoffelecken"
+      "title": "Currywurst (1)",
+      "description": "mit Kartoffelecken"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Green Wrap",
-      "description": "mit Gemüse und Fetakäse gefüllt (17,23)"
+      "title": "Sellerieschnitzel",
+      "description": "mit Kartoffeln und Rahmspinat (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Schupfnudeln (17)",
-      "description": "mit Apfelbrei oder Sauerkraut"
+      "title": "Pizza Margaritha/Gemüse Pizza (17,23)",
+      "description": ""
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffel-Spargel-Gratin (23)",
-      "description": "Kartoffel- und Spargel-Auflauf mit Käse überbacken"
+      "title": "Feiertag",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Putengyros",
-      "description": "mit Reis, Zwiebeln und Tzaziki (23)"
+      "title": "Feiertag",
+      "description": ""
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Mai-Falafel bowl",
-      "description": "mit Couscous, Rohkost und Tahin-Dressing (17,27)"
+      "title": "Brückentag",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Käsespätzle",
-      "description": "mit Bergkäse und Zwiebeln (17,19,23)"
+      "title": "Brückentag",
+      "description": ""
+    }
+  ],
+  "Mo.": [
+    {
+      "menu": "Menü 1",
+      "title": "Bio-Nudeln",
+      "description": "mit Tomatensoße und Käse (17,23)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Bio-Nudeln",
+      "description": "mit Geflügelbällchen in Tomatensoße (17)"
     }
   ]
 }
