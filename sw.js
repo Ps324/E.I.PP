@@ -6,7 +6,7 @@ const ASSETS = [
   "/E.I.PP/style.css",
   "/E.I.PP/script.js",
   "/E.I.PP/speiseplan.json",
-  "/E.I.PP/manifest.json"
+  "/E.I.PP/icon.svg",
 ];
 
 self.addEventListener("install", event => {
