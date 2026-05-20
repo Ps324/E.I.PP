@@ -1,12 +1,12 @@
 const CACHE_NAME = "ei-portal-v1";
 
 const ASSETS = [
-  "./",
-  "./index.html",
-  "./style.css",
-  "./script.js",
-  "./speiseplan.json",
-  "./manifest.json"
+  "/E.I.PP/",
+  "/E.I.PP/index.html",
+  "/E.I.PP/style.css",
+  "/E.I.PP/script.js",
+  "/E.I.PP/speiseplan.json",
+  "/E.I.PP/manifest.json"
 ];
 
 self.addEventListener("install", event => {

@@ -1,8 +1,9 @@
 {
     "name": "EI Heidelberg Infoportal",
     "short_name": "EI Portal",
-    "start_url": "./",
-    "scope": "./",
+    "start_url": "/E.I.PP/",
+    "id": "/E.I.PP/",
+    "scope": "/E.I.PP/",
     "display": "standalone",
     "background_color": "#eef3f8",
     "theme_color": "#1d4f91",
