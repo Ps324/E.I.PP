@@ -1,4 +1,19 @@
 {
+<<<<<<< HEAD
+=======
+  "Di.": [
+    {
+      "menu": "Menü 1",
+      "title": "Ofengemüse (Schülervorschlag)",
+      "description": "mit Süßkartoffeln und Kräuterquark (23)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Bangers and Mash",
+      "description": "Bratwurst (Geflügel/Schwein/Veggie) mit Kartoffelpüree (23) und Zwiebelsoße"
+    }
+  ],
+>>>>>>> 7a9c7bd9302bd2d3dedd9df75eacb81a0b458b8d
   "Mi.": [
     {
       "menu": "Menü 1",
@@ -33,6 +48,21 @@
       "menu": "Menü 2",
       "title": "Lachs-Filet (20,23)",
       "description": "mit Kräutersoße und Reis"
+<<<<<<< HEAD
+=======
+    }
+  ],
+  "Mo.": [
+    {
+      "menu": "Menü 1",
+      "title": "Vollkorn-Nudeln",
+      "description": "mit Ratatouille-Gemüse und Parmesankäse (17,23)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Puten-Curry",
+      "description": "mit Basmati-Reis und Gemüse"
+>>>>>>> 7a9c7bd9302bd2d3dedd9df75eacb81a0b458b8d
     }
   ]
 }
