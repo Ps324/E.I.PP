@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Vollkorn-Nudeln",
-      "description": "mit Ratatouille-Gemüse und Parmesankäse (17,23)"
+      "title": "Chili sin Carne",
+      "description": "mit Linsen und Soja, dazu Fladenbrot (17,22)"
     },
     {
       "menu": "Menü 2",
-      "title": "Puten-Curry",
-      "description": "mit Basmati-Reis und Gemüse"
+      "title": "Tortellini Fleisch/Veggie",
+      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Ofengemüse (Schülervorschlag)",
-      "description": "mit Süßkartoffeln und Kräuterquark (23)"
+      "title": "Nudeln (17,23,24)",
+      "description": "mit Basilikum-Pesto und getrockneten Tomaten"
     },
     {
       "menu": "Menü 2",
-      "title": "Bangers and Mash",
-      "description": "Bratwurst (Geflügel/Schwein/Veggie) mit Kartoffelpüree (23) und Zwiebelsoße"
+      "title": "Asia One Pot",
+      "description": "Eiernudeln mit Huhn, Wok-Gemüse und Sweet & Sour Sauce (17,19,22)"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Linsenbolognese",
-      "description": "mit Nudeln und Käse (17,23)"
+      "title": "Green Wrap",
+      "description": "mit Gemüse und Fetakäse gefüllt (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Tomaten und Käse Bakes",
-      "description": "mit Paprika-Ragout (17,23)"
+      "title": "Schupfnudeln (17)",
+      "description": "mit Apfelbrei oder Gemüse"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Cannelloni (17,23)",
-      "description": "mit Spinat und Ricotta gefüllt, überbacken mit Käse"
+      "title": "Kartoffelgratin (23)",
+      "description": "mit Brokkoligemüse, überbacken mit Käse"
     },
     {
       "menu": "Menü 2",
-      "title": "Schnitzel Wiener Art (Pute/Schwein/Veggie)",
-      "description": "mit Bratkartoffeln (17,19)"
+      "title": "Spaghetti Bolognese (Rind)",
+      "description": "mit Parmesankäse (17,23)"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Camembert",
-      "description": "mit Baguette, Preiselbeeren und kleinem Salat (17,23)"
+      "title": "Süßkartoffel-Couscous-Bowl (vegan)",
+      "description": "mit knusprigen Kichererbsen und Mango-Salsa"
     },
     {
       "menu": "Menü 2",
-      "title": "Lachs-Filet (20,23)",
-      "description": "mit Kräutersoße und Reis"
+      "title": "Fischstäbchen (17,20)",
+      "description": "mit Kartoffeln und Spinat"
     }
   ]
 }
