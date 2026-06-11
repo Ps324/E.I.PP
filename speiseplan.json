@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Chili sin Carne",
-      "description": "mit Linsen und Soja, dazu Fladenbrot (17,22)"
+      "title": "Bio-Pasta Fusilli (17)",
+      "description": "mit Spargelgemüse und (23) und Kirschtomaten"
     },
     {
       "menu": "Menü 2",
-      "title": "Tortellini Fleisch/Veggie",
-      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
+      "title": "Schweinegulasch",
+      "description": "mit Paprikagemüse und Spätzle (17,19)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Nudeln (17,23,24)",
-      "description": "mit Basilikum-Pesto und getrockneten Tomaten"
+      "title": "Cazuela de Queso - 1 Jahr 1 Land - Ecuador",
+      "description": "Käse-Kasserolle (19,23) mit Zwiebel-Gurken-Tomatensalat"
     },
     {
       "menu": "Menü 2",
-      "title": "Asia One Pot",
-      "description": "Eiernudeln mit Huhn, Wok-Gemüse und Sweet & Sour Sauce (17,19,22)"
+      "title": "Hühner Frikassee (23)",
+      "description": "mit Gemüse und Reis"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Green Wrap",
-      "description": "mit Gemüse und Fetakäse gefüllt (17,23)"
+      "title": "Couscous-Gemüse-Bratlinge",
+      "description": "mit Grillgemüse und Humus-Dip (17,19,27)"
     },
     {
       "menu": "Menü 2",
-      "title": "Schupfnudeln (17)",
-      "description": "mit Apfelbrei oder Gemüse"
+      "title": "Bio-Nudeln",
+      "description": "mit Tomaten-Basilikum-Soße und Käse (17,23)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelgratin (23)",
-      "description": "mit Brokkoligemüse, überbacken mit Käse"
+      "title": "Linsengemüse Curry",
+      "description": "mit Pitabrot (17)"
     },
     {
       "menu": "Menü 2",
-      "title": "Spaghetti Bolognese (Rind)",
-      "description": "mit Parmesankäse (17,23)"
+      "title": "Döner (Huhn/Veggie) (17,23)",
+      "description": "mit Zwiebeln, Gurken, Tomaten, Kraut und Dönersoße"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Süßkartoffel-Couscous-Bowl (vegan)",
-      "description": "mit knusprigen Kichererbsen und Mango-Salsa"
+      "title": "Kartoffeln",
+      "description": "mit Frankfurter Grüne Soße (19,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Fischstäbchen (17,20)",
-      "description": "mit Kartoffeln und Spinat"
+      "title": "Paniertes Seelachs-Filet (17,20)",
+      "description": "mit hausgemachtem Kartoffelsalat"
     }
   ]
 }
