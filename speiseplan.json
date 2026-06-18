@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Bio-Pasta Fusilli (17)",
-      "description": "mit Spargelgemüse und (23) und Kirschtomaten"
+      "title": "Tomaten-Wrap (17,23,24)",
+      "description": "mit Karotten, Avocado, Cashew und Reis, dazu Minze-Gurke-Dip"
     },
     {
       "menu": "Menü 2",
-      "title": "Schweinegulasch",
-      "description": "mit Paprikagemüse und Spätzle (17,19)"
+      "title": "Bio Nudeln Carbonara",
+      "description": "Speck, Knoblauch und Parmesan-Soße (17,23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Cazuela de Queso - 1 Jahr 1 Land - Ecuador",
-      "description": "Käse-Kasserolle (19,23) mit Zwiebel-Gurken-Tomatensalat"
+      "title": "Veggie Tortellini (17,23)",
+      "description": "in Basilikum-Butter oder Tomatensoße"
     },
     {
       "menu": "Menü 2",
-      "title": "Hühner Frikassee (23)",
-      "description": "mit Gemüse und Reis"
+      "title": "Chicken Tikka Masala (Indisch)",
+      "description": "mit Basmati Reis (23)"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Couscous-Gemüse-Bratlinge",
-      "description": "mit Grillgemüse und Humus-Dip (17,19,27)"
+      "title": "Griechischer Blumenkohl",
+      "description": "(in Tomaten geschmort) mit Reis"
     },
     {
       "menu": "Menü 2",
-      "title": "Bio-Nudeln",
-      "description": "mit Tomaten-Basilikum-Soße und Käse (17,23)"
+      "title": "Gemüselasagne (17,23)",
+      "description": "mit Ratatouille-Gemüse, überbacken mit Käse"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Linsengemüse Curry",
-      "description": "mit Pitabrot (17)"
+      "title": "Knusper-Tofu (21,22)",
+      "description": "mit Erdnuss-Gemüse-Soße und Wildreis"
     },
     {
       "menu": "Menü 2",
-      "title": "Döner (Huhn/Veggie) (17,23)",
-      "description": "mit Zwiebeln, Gurken, Tomaten, Kraut und Dönersoße"
+      "title": "Köttbullar (Geflügel)",
+      "description": "mit Preiselbeere-Soße (23) und Reis"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffeln",
-      "description": "mit Frankfurter Grüne Soße (19,23)"
+      "title": "Grießbrei",
+      "description": "mit Erdbeerragout (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Paniertes Seelachs-Filet (17,20)",
-      "description": "mit hausgemachtem Kartoffelsalat"
+      "title": "Lachsfilet (20,23)",
+      "description": "mit Zitronensoße und Kartoffelecken"
     }
   ]
 }
