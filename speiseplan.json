@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Tomaten-Wrap (17,23,24)",
-      "description": "mit Karotten, Avocado, Cashew und Reis, dazu Minze-Gurke-Dip"
+      "title": "Griechischer Salat",
+      "description": "Paprika, Gurken Tomaten, Eisbergsalat und Fetakäse mit Brot (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Bio Nudeln Carbonara",
-      "description": "Speck, Knoblauch und Parmesan-Soße (17,23)"
+      "title": "Hot dogs",
+      "description": "mit Wiener (Schwein/Geflügel/Veggie), Gurken, Zwiebeln und Kraut (17,1)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Veggie Tortellini (17,23)",
-      "description": "in Basilikum-Butter oder Tomatensoße"
+      "title": "Llapingachos - 1 Jahr 1 Land - Ecuador",
+      "description": "Kartoffeltaler mit Käse gefüllt und Salsa Verde (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Chicken Tikka Masala (Indisch)",
-      "description": "mit Basmati Reis (23)"
+      "title": "Chicken Nuggets (17)",
+      "description": "mit Kartoffelecken und Sweet Chili Dip"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Griechischer Blumenkohl",
-      "description": "(in Tomaten geschmort) mit Reis"
+      "title": "Kartoffelpuffer (17,19)",
+      "description": "mit Kräuterquark (23) und Rohkostgemüse"
     },
     {
       "menu": "Menü 2",
-      "title": "Gemüselasagne (17,23)",
-      "description": "mit Ratatouille-Gemüse, überbacken mit Käse"
+      "title": "Gebackener Schafskäse (17,23)",
+      "description": "mit Paprika, Tomaten und Zwiebeln, dazu Baguette"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Knusper-Tofu (21,22)",
-      "description": "mit Erdnuss-Gemüse-Soße und Wildreis"
+      "title": "Milchbar geschlossen",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Köttbullar (Geflügel)",
-      "description": "mit Preiselbeere-Soße (23) und Reis"
+      "title": "Milchbar geschlossen",
+      "description": ""
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Grießbrei",
-      "description": "mit Erdbeerragout (17,23)"
+      "title": "Milchbar geschlossen",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Lachsfilet (20,23)",
-      "description": "mit Zitronensoße und Kartoffelecken"
+      "title": "Milchbar geschlossen",
+      "description": ""
     }
   ]
 }
