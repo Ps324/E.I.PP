@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Griechischer Salat",
-      "description": "Paprika, Gurken Tomaten, Eisbergsalat und Fetakäse mit Brot (17,23)"
+      "title": "Chili sin Carne",
+      "description": "mit Grünkern und Soja, dazu Fladenbrot (17,22)"
     },
     {
       "menu": "Menü 2",
-      "title": "Hot dogs",
-      "description": "mit Wiener (Schwein/Geflügel/Veggie), Gurken, Zwiebeln und Kraut (17,1)"
+      "title": "Tortellini Fleisch/Veggie",
+      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Llapingachos - 1 Jahr 1 Land - Ecuador",
-      "description": "Kartoffeltaler mit Käse gefüllt und Salsa Verde (17,23)"
+      "title": "Nudel (17,23)",
+      "description": "mit Auberginen-Bolognese und Parmesankäse"
     },
     {
       "menu": "Menü 2",
-      "title": "Chicken Nuggets (17)",
-      "description": "mit Kartoffelecken und Sweet Chili Dip"
+      "title": "Burger (Beef/Chicken/Veggie) (17)",
+      "description": "mit Tomaten, Gurken, Zwiebeln und Kartoffelecken"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelpuffer (17,19)",
-      "description": "mit Kräuterquark (23) und Rohkostgemüse"
+      "title": "Marokkanische Wrap (Kalt)",
+      "description": "mit Gemüse und Minze-Dip (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Gebackener Schafskäse (17,23)",
-      "description": "mit Paprika, Tomaten und Zwiebeln, dazu Baguette"
+      "title": "Schupfnudel (17)",
+      "description": "mit Apfelbrei oder Gemüse"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Spanische Kartoffel-Tortilla",
+      "description": "mit geschmortem Paprika -Tomaten-Gemüse (19,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Putengyros",
+      "description": "mit Reis, Zwiebeln und Tzaziki (23)"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Falafel bowl",
+      "description": "mit Bulgur, Rohkost und Tahin-Dressing (17,27)"
     },
     {
       "menu": "Menü 2",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Käsespätzle",
+      "description": "mit Bergkäse und Zwiebeln (17,19,23)"
     }
   ]
 }
