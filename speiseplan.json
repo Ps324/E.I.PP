@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Chili sin Carne",
-      "description": "mit Grünkern und Soja, dazu Fladenbrot (17,22)"
+      "title": "Gemüse-Kichererbsen Curry",
+      "description": "mit Naan-Brot (17)"
     },
     {
       "menu": "Menü 2",
-      "title": "Tortellini Fleisch/Veggie",
-      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
+      "title": "Currywurst (1)",
+      "description": "mit Röstkartoffeln"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Nudel (17,23)",
-      "description": "mit Auberginen-Bolognese und Parmesankäse"
+      "title": "Mote Pillo - Mais Omelette (19) - 1 Jahr 1 Land - Ecuador",
+      "description": "mit Gurken-Tomaten-Salat und Koriander"
     },
     {
       "menu": "Menü 2",
-      "title": "Burger (Beef/Chicken/Veggie) (17)",
-      "description": "mit Tomaten, Gurken, Zwiebeln und Kartoffelecken"
+      "title": "Thai Chicken Curry (23)",
+      "description": "mit Basmati-Reis"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Marokkanische Wrap (Kalt)",
-      "description": "mit Gemüse und Minze-Dip (17,23)"
+      "title": "Pizza Margerita (17,23)",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Schupfnudel (17)",
-      "description": "mit Apfelbrei oder Gemüse"
+      "title": "Tomaten-Mozzarella-Taschen (17,23)",
+      "description": "mit Basilikum Dip und Rucola"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Spanische Kartoffel-Tortilla",
-      "description": "mit geschmortem Paprika -Tomaten-Gemüse (19,23)"
+      "title": "Rote Linsen Suppe",
+      "description": "mit Spicey Reis-Bällchen"
     },
     {
       "menu": "Menü 2",
-      "title": "Putengyros",
-      "description": "mit Reis, Zwiebeln und Tzaziki (23)"
+      "title": "Kaiserschmarrn (17,19,23)",
+      "description": "mit Apfel-Kompott oder Beeren-Ragout"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Falafel bowl",
-      "description": "mit Bulgur, Rohkost und Tahin-Dressing (17,27)"
+      "title": "Kartoffeln",
+      "description": "mit Frankfurter Grüne Soße (19,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Käsespätzle",
-      "description": "mit Bergkäse und Zwiebeln (17,19,23)"
+      "title": "Paniertes Seelachs-Filet (17,20)",
+      "description": "mit hausgemachtem Kartoffelsalat"
     }
   ]
 }
