@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Gemüse-Kichererbsen Curry",
-      "description": "mit Naan-Brot (17)"
+      "title": "Vollkorn-Nudeln (17,23)",
+      "description": "mit Basilikum-Butter oder Nusspesto (23,24)"
     },
     {
       "menu": "Menü 2",
-      "title": "Currywurst (1)",
-      "description": "mit Röstkartoffeln"
+      "title": "Schweinegulasch",
+      "description": "mit Spätzle (17,19)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Mote Pillo - Mais Omelette (19) - 1 Jahr 1 Land - Ecuador",
-      "description": "mit Gurken-Tomaten-Salat und Koriander"
+      "title": "Cremige Schupfnudel-Gemüse-Pfanne (17,23)",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Thai Chicken Curry (23)",
-      "description": "mit Basmati-Reis"
+      "title": "Bangers & Mash",
+      "description": "Bratwurst (Geflügel/Schwein/Veggie) mit Kartoffelpüree (23) und Zwiebelsoße"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Pizza Margerita (17,23)",
-      "description": ""
+      "title": "Camembert",
+      "description": "mit Baguette, Preiselbeeren und kleinem Salat (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Tomaten-Mozzarella-Taschen (17,23)",
-      "description": "mit Basilikum Dip und Rucola"
+      "title": "Veggie Schnitzel",
+      "description": "mit Gemüsereis (17,23)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Rote Linsen Suppe",
-      "description": "mit Spicey Reis-Bällchen"
+      "title": "Cannelloni (17,23)",
+      "description": "gefüllt mit Spinat und Ricotta, überbacken mit Käse"
     },
     {
       "menu": "Menü 2",
-      "title": "Kaiserschmarrn (17,19,23)",
-      "description": "mit Apfel-Kompott oder Beeren-Ragout"
+      "title": "Schnitzel Wiener Art (Pute/Schwein/Veggie)",
+      "description": "mit Bratkartoffeln (17,19)"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffeln",
-      "description": "mit Frankfurter Grüne Soße (19,23)"
+      "title": "Bio-Nudeln (17,23)",
+      "description": "mit Tomatensoße und geriebenem Käse"
     },
     {
       "menu": "Menü 2",
-      "title": "Paniertes Seelachs-Filet (17,20)",
-      "description": "mit hausgemachtem Kartoffelsalat"
+      "title": "Lachs Filet (20,23)",
+      "description": "mit Kräutersoße und Reis"
     }
   ]
 }
