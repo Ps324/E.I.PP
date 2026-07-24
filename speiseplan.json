@@ -2,61 +2,51 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Vollkorn-Nudeln (17,23)",
-      "description": "mit Basilikum-Butter oder Nusspesto (23,24)"
+      "title": "Käsespätzle",
+      "description": "mit Zwiebeln (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Schweinegulasch",
-      "description": "mit Spätzle (17,19)"
+      "title": "Tortellini Fleisch/Veggie",
+      "description": "mit Tomatensoße und Käse (17,23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Cremige Schupfnudel-Gemüse-Pfanne (17,23)",
-      "description": ""
+      "title": "Kartoffelsuppe",
+      "description": "mit Brötchen (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Bangers & Mash",
-      "description": "Bratwurst (Geflügel/Schwein/Veggie) mit Kartoffelpüree (23) und Zwiebelsoße"
+      "title": "Bratwurst Brötchen (17,23)",
+      "description": "(Schwein/Geflügel/Veggie)"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Camembert",
-      "description": "mit Baguette, Preiselbeeren und kleinem Salat (17,23)"
+      "title": "Milchbar geschlossen",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Veggie Schnitzel",
-      "description": "mit Gemüsereis (17,23)"
+      "title": "Milchbar geschlossen",
+      "description": ""
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Cannelloni (17,23)",
-      "description": "gefüllt mit Spinat und Ricotta, überbacken mit Käse"
-    },
-    {
-      "menu": "Menü 2",
-      "title": "Schnitzel Wiener Art (Pute/Schwein/Veggie)",
-      "description": "mit Bratkartoffeln (17,19)"
+      "title": "",
+      "description": ""
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Bio-Nudeln (17,23)",
-      "description": "mit Tomatensoße und geriebenem Käse"
-    },
-    {
-      "menu": "Menü 2",
-      "title": "Lachs Filet (20,23)",
-      "description": "mit Kräutersoße und Reis"
+      "title": "",
+      "description": ""
     }
   ]
 }
