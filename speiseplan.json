@@ -2,51 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Käsespätzle",
-      "description": "mit Zwiebeln (17,23)"
+      "title": "Gebratener Reis (Vegan)",
+      "description": "mit Gemüse und Tomatensalsa"
     },
     {
       "menu": "Menü 2",
-      "title": "Tortellini Fleisch/Veggie",
-      "description": "mit Tomatensoße und Käse (17,23)"
+      "title": "Bio-Spaghetti (17)",
+      "description": "mit Bolognese-Soße (Rind) und Käse (23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelsuppe",
-      "description": "mit Brötchen (17,23)"
+      "title": "Vollkornnudeln (17)",
+      "description": "mit Schmorgemüse in Tomaten-Hollandaise-Soße (19)"
     },
     {
       "menu": "Menü 2",
-      "title": "Bratwurst Brötchen (17,23)",
-      "description": "(Schwein/Geflügel/Veggie)"
+      "title": "Grillsteaks (Schwein/Puten)",
+      "description": "mit Kräuterbutter (23), Maiskolben und Röstkartoffeln"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Schupfnudeln (17)",
+      "description": "mit Apfelkompott oder Sauerkraut"
     },
     {
       "menu": "Menü 2",
-      "title": "Milchbar geschlossen",
-      "description": ""
+      "title": "Röstkartoffeln",
+      "description": "mit Kräuterquark (23)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "",
-      "description": ""
+      "title": "Gnocchi (17,23)",
+      "description": "mit Käsesoße und Walnusskernen (24)"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Thai Chicken Curry",
+      "description": "mit Basmatireis  und Gemüse"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "",
-      "description": ""
+      "title": "Gemüse-Bowl (23,24,27)",
+      "description": "mit Nüssen, Obst, Reis und Joghurt-Honig-Senf-Dressing"
+    },
+    {
+      "menu": "Menü 2",
+      "title": "Paniertes-Seelachsfilet (17,19,20)",
+      "description": "mit Kartoffelsalat oder Kartoffeln, dazu Remoulade-Soße"
     }
   ]
 }
