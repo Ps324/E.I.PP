@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Gebratener Reis (Vegan)",
-      "description": "mit Gemüse und Tomatensalsa"
+      "title": "Vegetarische Carbonara",
+      "description": "mit Tofu und Bio-Spaghetti (17,23,22)"
     },
     {
       "menu": "Menü 2",
-      "title": "Bio-Spaghetti (17)",
-      "description": "mit Bolognese-Soße (Rind) und Käse (23)"
+      "title": "Schweinegulasch",
+      "description": "mit Spätzle und Paprika-Gemüse (17,19)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Vollkornnudeln (17)",
-      "description": "mit Schmorgemüse in Tomaten-Hollandaise-Soße (19)"
+      "title": "Gemüse-Kichererbsen-Curry (Vegan)",
+      "description": "mit Naan Brot (17)"
     },
     {
       "menu": "Menü 2",
-      "title": "Grillsteaks (Schwein/Puten)",
-      "description": "mit Kräuterbutter (23), Maiskolben und Röstkartoffeln"
+      "title": "Currywurst (Schwein/Geflügel)",
+      "description": "mit Kartoffel-Würfeln"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Schupfnudeln (17)",
-      "description": "mit Apfelkompott oder Sauerkraut"
+      "title": "Kartoffel-Suppe",
+      "description": "mit Cheddar-Cheese-Topping und Brot (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Röstkartoffeln",
-      "description": "mit Kräuterquark (23)"
+      "title": "Veggie Schnitzel (17,23)",
+      "description": "mit Bulgur und Rahmblumenkohl"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Gnocchi (17,23)",
-      "description": "mit Käsesoße und Walnusskernen (24)"
+      "title": "Gemüse-Lasagne",
+      "description": "mit Käse überbacken (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Thai Chicken Curry",
-      "description": "mit Basmatireis  und Gemüse"
+      "title": "Kaiserschmarrn",
+      "description": "mit Apfelkompott oder Beeren-Ragout (17,19,23)"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Gemüse-Bowl (23,24,27)",
-      "description": "mit Nüssen, Obst, Reis und Joghurt-Honig-Senf-Dressing"
+      "title": "Falafel Bällchen",
+      "description": "mit Tahini-Dip und Gemüsereis"
     },
     {
       "menu": "Menü 2",
-      "title": "Paniertes-Seelachsfilet (17,19,20)",
-      "description": "mit Kartoffelsalat oder Kartoffeln, dazu Remoulade-Soße"
+      "title": "Frisch gebratene Lachsstücke",
+      "description": "auf Zitronensoße mit Brokkoli und Reis"
     }
   ]
 }
