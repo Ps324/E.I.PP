@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Vegetarische Carbonara",
-      "description": "mit Tofu und Bio-Spaghetti (17,23,22)"
+      "title": "Chili sin Carne (Vegan)",
+      "description": "mit Linsen und Soja, dazu Fladenbrot (17,22)"
     },
     {
       "menu": "Menü 2",
-      "title": "Schweinegulasch",
-      "description": "mit Spätzle und Paprika-Gemüse (17,19)"
+      "title": "Tortellini Fleisch/Veggie",
+      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Gemüse-Kichererbsen-Curry (Vegan)",
-      "description": "mit Naan Brot (17)"
+      "title": "\"Bayern trifft Italien\" Laugenknödel mit Parmesan und Spinat",
+      "description": "in Salbeibutter, mit Kirschtomaten (17,19,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Currywurst (Schwein/Geflügel)",
-      "description": "mit Kartoffel-Würfeln"
+      "title": "\"Indien trifft die Schweiz\" Beef Madras Curry",
+      "description": "mit Kartoffelrösti"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffel-Suppe",
-      "description": "mit Cheddar-Cheese-Topping und Brot (17,23)"
+      "title": "Cannelloni",
+      "description": "mit Spinat und Ricotta gefüllt, überbacken mit Käse (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Veggie Schnitzel (17,23)",
-      "description": "mit Bulgur und Rahmblumenkohl"
+      "title": "Kartoffelpuffer",
+      "description": "mit Kräuterquark und Rohkostgemüse (17,23)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Gemüse-Lasagne",
-      "description": "mit Käse überbacken (17,23)"
+      "title": "Kartoffelgratin (23)",
+      "description": "mit Brokkoli-Gemüse, mit Käse überbacken"
     },
     {
       "menu": "Menü 2",
-      "title": "Kaiserschmarrn",
-      "description": "mit Apfelkompott oder Beeren-Ragout (17,19,23)"
+      "title": "Döner (Huhn/Veggie)",
+      "description": "mit Zwiebeln, Gurken, Tomaten, Kraut und Dönersoße (17,23)"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Falafel Bällchen",
-      "description": "mit Tahini-Dip und Gemüsereis"
+      "title": "Rührei (19,23)",
+      "description": "mit Kartoffeln und Spinat"
     },
     {
       "menu": "Menü 2",
-      "title": "Frisch gebratene Lachsstücke",
-      "description": "auf Zitronensoße mit Brokkoli und Reis"
+      "title": "XXL-Fischstäbchen (17,20)",
+      "description": "mit Kartoffeln und Spinat"
     }
   ]
 }
