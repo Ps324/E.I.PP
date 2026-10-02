@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Chili sin Carne (Vegan)",
-      "description": "mit Linsen und Soja, dazu Fladenbrot (17,22)"
+      "title": "Rahmschwammerl (Pilze)",
+      "description": "mit Semmelknödel (17,19,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Tortellini Fleisch/Veggie",
-      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
+      "title": "Fleischkäse (Schwein/Geflügel)",
+      "description": "mit Kartoffelbrei und Zwiebelsoße (23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "\"Bayern trifft Italien\" Laugenknödel mit Parmesan und Spinat",
-      "description": "in Salbeibutter, mit Kirschtomaten (17,19,23)"
+      "title": "Käsespätzle (17,19,23)",
+      "description": "mit Bergkäse und Röstzwiebeln"
     },
     {
       "menu": "Menü 2",
-      "title": "\"Indien trifft die Schweiz\" Beef Madras Curry",
-      "description": "mit Kartoffelrösti"
+      "title": "Schweinebraten",
+      "description": "mit Spätzle (17,19) und Bayrisch Kraut"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Cannelloni",
-      "description": "mit Spinat und Ricotta gefüllt, überbacken mit Käse (17,23)"
+      "title": "Kartoffelsuppe",
+      "description": "mit Dampfnudel (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Kartoffelpuffer",
-      "description": "mit Kräuterquark und Rohkostgemüse (17,23)"
+      "title": "Apfelstrudel",
+      "description": "auf Vanillesoße (17,23)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelgratin (23)",
-      "description": "mit Brokkoli-Gemüse, mit Käse überbacken"
+      "title": "Krautwickel",
+      "description": "mit Soja und Gemüse gefüllt, auf Paprikasoße (22)"
     },
     {
       "menu": "Menü 2",
-      "title": "Döner (Huhn/Veggie)",
-      "description": "mit Zwiebeln, Gurken, Tomaten, Kraut und Dönersoße (17,23)"
+      "title": "Spicey Chicken Wings",
+      "description": "mit Bratkartoffeln und Blaukraut"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Rührei (19,23)",
-      "description": "mit Kartoffeln und Spinat"
+      "title": "Linsen-Gemüse-Eintopf",
+      "description": "mit Laugenbrötchen (17)"
     },
     {
       "menu": "Menü 2",
-      "title": "XXL-Fischstäbchen (17,20)",
-      "description": "mit Kartoffeln und Spinat"
+      "title": "Backfisch",
+      "description": "mit hausgemachtem Kartoffelsalat und Remouladensoße (17,19,20)"
     }
   ]
 }
