@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Rahmschwammerl (Pilze)",
-      "description": "mit Semmelknödel (17,19,23)"
+      "title": "Bobotie (Sojahackauflauf) (17,19) - UNESCO - 1Jahr 1Land - Südafrika",
+      "description": "mit Rosinengemüsereis und Mango Chutney"
     },
     {
       "menu": "Menü 2",
-      "title": "Fleischkäse (Schwein/Geflügel)",
-      "description": "mit Kartoffelbrei und Zwiebelsoße (23)"
+      "title": "Geflügelbällchen (17)",
+      "description": "in Tomatensoße mit Reis"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Käsespätzle (17,19,23)",
-      "description": "mit Bergkäse und Röstzwiebeln"
+      "title": "Gnocchi",
+      "description": "mit Käsesoße und Brokkoli-Gemüse (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Schweinebraten",
-      "description": "mit Spätzle (17,19) und Bayrisch Kraut"
+      "title": "Dak Kalguksu - UNESCO - 1Jahr 1Land - Südkorea",
+      "description": "Hähnchen Nudelsuppe (17,22,27) mit Gemüse"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelsuppe",
-      "description": "mit Dampfnudel (17,23)"
+      "title": "Kürbis-Pfannkuchen (17,19,23) - UNESCO - 1Jahr 1Land - Belgien",
+      "description": "mit Pumpkin Spice und Apfelkompott"
     },
     {
       "menu": "Menü 2",
-      "title": "Apfelstrudel",
-      "description": "auf Vanillesoße (17,23)"
+      "title": "Bulgur-Pfanne (17)",
+      "description": "mit Gemüse & Curry-Dip"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Krautwickel",
-      "description": "mit Soja und Gemüse gefüllt, auf Paprikasoße (22)"
+      "title": "Borschtsch - UNESCO - 1Jahr 1Land - Ukraine",
+      "description": "Rote-Bete Eintopf (17,22) mit Tofu & Brot"
     },
     {
       "menu": "Menü 2",
-      "title": "Spicey Chicken Wings",
-      "description": "mit Bratkartoffeln und Blaukraut"
+      "title": "Hot Dogs (17,19) (Geflügel /Schwein /Veggie)",
+      "description": "mit Gurke, Zwiebeln, Senf & Ketchup"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Linsen-Gemüse-Eintopf",
-      "description": "mit Laugenbrötchen (17)"
+      "title": "Pizza Margerita (17,23)",
+      "description": ""
     },
     {
       "menu": "Menü 2",
-      "title": "Backfisch",
-      "description": "mit hausgemachtem Kartoffelsalat und Remouladensoße (17,19,20)"
+      "title": "Chupe de Pescado - UNESCO - 1Jahr 1Land - Ecuador",
+      "description": "Fischsuppe mit Seelachs, Paprika, Mais, Chili und Kartoffeln (20)"
     }
   ]
 }
