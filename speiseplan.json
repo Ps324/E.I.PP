@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Bobotie (Sojahackauflauf) (17,19) - UNESCO - 1Jahr 1Land - Südafrika",
-      "description": "mit Rosinengemüsereis und Mango Chutney"
+      "title": "Kürbisstrudel",
+      "description": "auf Pilzrahmsoße (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Geflügelbällchen (17)",
-      "description": "in Tomatensoße mit Reis"
+      "title": "Tortellini Carne/Veggie",
+      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Gnocchi",
-      "description": "mit Käsesoße und Brokkoli-Gemüse (17,23)"
+      "title": "Gemüse-Curry",
+      "description": "in Erdnusssoße (21) mit Kokos und Reis"
     },
     {
       "menu": "Menü 2",
-      "title": "Dak Kalguksu - UNESCO - 1Jahr 1Land - Südkorea",
-      "description": "Hähnchen Nudelsuppe (17,22,27) mit Gemüse"
+      "title": "Beef/Chicken/Veggie Burger (17)",
+      "description": "mit Kartoffel-Würfel"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Kürbis-Pfannkuchen (17,19,23) - UNESCO - 1Jahr 1Land - Belgien",
-      "description": "mit Pumpkin Spice und Apfelkompott"
+      "title": "Kürbis-Kartoffel-Suppe",
+      "description": "mit Kürbiskernen (23) und Brot (17)"
     },
     {
       "menu": "Menü 2",
-      "title": "Bulgur-Pfanne (17)",
-      "description": "mit Gemüse & Curry-Dip"
+      "title": "Bio Nudeln (17,23)",
+      "description": "mit Tomatensoße und geriebenem Käse"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Borschtsch - UNESCO - 1Jahr 1Land - Ukraine",
-      "description": "Rote-Bete Eintopf (17,22) mit Tofu & Brot"
+      "title": "Schupfnudel-Gemüse-Pfanne (17)",
+      "description": "mit Ajvar Dip"
     },
     {
       "menu": "Menü 2",
-      "title": "Hot Dogs (17,19) (Geflügel /Schwein /Veggie)",
-      "description": "mit Gurke, Zwiebeln, Senf & Ketchup"
+      "title": "Beef-/Chicken-Curry",
+      "description": "mit Reis"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Pizza Margerita (17,23)",
-      "description": ""
+      "title": "Gemüse-Nuggets (17)",
+      "description": "mit Kartoffeln und Kräutersoße (23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Chupe de Pescado - UNESCO - 1Jahr 1Land - Ecuador",
-      "description": "Fischsuppe mit Seelachs, Paprika, Mais, Chili und Kartoffeln (20)"
+      "title": "Lachs (20,23)",
+      "description": "in Dillrahmsoße mit Kartoffeln"
     }
   ]
 }
