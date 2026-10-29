@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Kürbisstrudel",
-      "description": "auf Pilzrahmsoße (17,23)"
+      "title": "Chili sin Carne (vegan)",
+      "description": "mit Fladenbrot (17)"
     },
     {
       "menu": "Menü 2",
-      "title": "Tortellini Carne/Veggie",
-      "description": "mit Tomatensoße und geriebenem Käse (17,23)"
+      "title": "Bio-Spaghetti (17)",
+      "description": "mit Bolognese-Soße (Rind) und geriebenem Käse (23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Gemüse-Curry",
-      "description": "in Erdnusssoße (21) mit Kokos und Reis"
+      "title": "Vollkornnudeln (17)",
+      "description": "mit Schmorgemüse in Tomaten-Hollandaise-Soße (19)"
     },
     {
       "menu": "Menü 2",
-      "title": "Beef/Chicken/Veggie Burger (17)",
-      "description": "mit Kartoffel-Würfel"
+      "title": "Bangers and mash",
+      "description": "Bratwurst mit Kartoffelpüree (23) und Zwiebelsoße"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Kürbis-Kartoffel-Suppe",
-      "description": "mit Kürbiskernen (23) und Brot (17)"
+      "title": "Schupfnudeln (17)",
+      "description": "mit Apfelkompott oder Sauerkraut"
     },
     {
       "menu": "Menü 2",
-      "title": "Bio Nudeln (17,23)",
-      "description": "mit Tomatensoße und geriebenem Käse"
+      "title": "Röstkartoffeln",
+      "description": "mit Kräuterquark (23)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Schupfnudel-Gemüse-Pfanne (17)",
-      "description": "mit Ajvar Dip"
+      "title": "Gnocchi (17,23)",
+      "description": "mit Käsesoße und Walnusskernen (24)"
     },
     {
       "menu": "Menü 2",
-      "title": "Beef-/Chicken-Curry",
-      "description": "mit Reis"
+      "title": "Thai Chicken Curry",
+      "description": "mit Basmatireis und Gemüse"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Gemüse-Nuggets (17)",
-      "description": "mit Kartoffeln und Kräutersoße (23)"
+      "title": "Herbstliche Gemüse-Bowl",
+      "description": "mit Nüssen, Kürbis, Reis und Joghurt-Honig-Senf-Dressing (23,24,27)"
     },
     {
       "menu": "Menü 2",
-      "title": "Lachs (20,23)",
-      "description": "in Dillrahmsoße mit Kartoffeln"
+      "title": "Paniertes Seelachsfilet (17,19,20)",
+      "description": "mit Kartoffelsalat oder Kartoffeln, dazu Remouladensoße"
     }
   ]
 }
