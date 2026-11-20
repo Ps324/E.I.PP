@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Chili sin Carne (Vegan)",
-      "description": "mit Linsen und Soja, dazu Fladenbrot (17,22)"
+      "title": "Gemüse Tortellini",
+      "description": "in Tomaten-Kräuter-Soße (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Linsengemüse",
-      "description": "mit Spätzle und Wiener (17,19,25) (Schwein/Geflügel/Veggie)"
+      "title": "Geflügel Köttbullar (17)",
+      "description": "in Preiselbeersoße, mit Gemüse und Reis"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Tricolor Pasta Puttanesa (17) - 1 Jahr 1 Land - Italien",
-      "description": "mit Kapern, Chili, Oliven und Tomaten"
+      "title": "Tagliatelle - 1 Jahr 1 Land - Italien",
+      "description": "mit Nuss-Pesto und getrockneten Tomaten (17,23,24)"
     },
     {
       "menu": "Menü 2",
-      "title": "Piccata alla Milanese - 1 Jahr 1 Land - Italien",
-      "description": "Pute in Käse-Ei-Panade auf Spaghetti & Tomatensoße (17,19,23)"
+      "title": "Rindfleisch-Lasagne - 1 Jahr 1 Land - Italien",
+      "description": "mit Gemüse, überbacken mit Käse (17,23,25)"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Cannelloni",
-      "description": "mit Spinat und Ricotta gefüllt, mit Käse überbacken (17,23)"
+      "title": "Süßer Armer-Ritter-Auflauf",
+      "description": "mit Vanillesoße (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Kartoffelpuffer",
-      "description": "mit Kräuterquark und Rohkostgemüse (17,23)"
+      "title": "Bio-Nudeln",
+      "description": "mit Tomaten-Basilikum-Soße und Käse (17,23)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelgratin (23)",
-      "description": "mit Brokkoli, überbacken mit Käse"
+      "title": "Indisches Linsengemüse Curry",
+      "description": "mit Reis (vegan)"
     },
     {
       "menu": "Menü 2",
-      "title": "Döner (Huhn/Veggie)",
-      "description": "mit Zwiebeln, Gurken, Tomaten, Kraut und Dönersoße (17,23)"
+      "title": "Hühnerfrikassee (23)",
+      "description": "mit Gemüse und Reis"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Rührei (19,23)",
-      "description": "mit Spinat und Kartoffeln"
+      "title": "Kartoffelpfanne",
+      "description": "mit Gemüse und Ajvar Dip"
     },
     {
       "menu": "Menü 2",
-      "title": "XXL-Fischstäbchen (17,20)",
-      "description": "mit Kartoffeln und Spinat"
+      "title": "Paniertes Seelachs-Filet (17,20,23)",
+      "description": "mit Kartoffeln und Zitronen Dip"
     }
   ]
 }
