@@ -2,61 +2,61 @@
   "Mo.": [
     {
       "menu": "Menü 1",
-      "title": "Gemüse Tortellini",
-      "description": "in Tomaten-Kräuter-Soße (17,23)"
+      "title": "Veggie Burritos",
+      "description": "gefüllt mit Bohnen, Reis, Soja, Paprika und Avocado, dazu Sour Cream Dip (17,22,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Geflügel Köttbullar (17)",
-      "description": "in Preiselbeersoße, mit Gemüse und Reis"
+      "title": "Bio-Nudeln Carbonara",
+      "description": "Speck-Knoblauch-Parmesan-Soße (17,23)"
     }
   ],
   "Di.": [
     {
       "menu": "Menü 1",
-      "title": "Tagliatelle - 1 Jahr 1 Land - Italien",
-      "description": "mit Nuss-Pesto und getrockneten Tomaten (17,23,24)"
+      "title": "Paglia e Fieno - 1 Jahr 1 Land - Italien",
+      "description": "Zweierlei Nudeln mit Pilzrahmsoße (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Rindfleisch-Lasagne - 1 Jahr 1 Land - Italien",
-      "description": "mit Gemüse, überbacken mit Käse (17,23,25)"
+      "title": "Costolette alla Pizzaiola - 1 Jahr 1 Land - Italien",
+      "description": "Schweinesteaks geschmort mit Tomaten, Knoblauch und Oregano, dazu Gnocchi (17)"
     }
   ],
   "Mi.": [
     {
       "menu": "Menü 1",
-      "title": "Süßer Armer-Ritter-Auflauf",
-      "description": "mit Vanillesoße (17,23)"
+      "title": "Blumenkohl mit Käse überbacken",
+      "description": "dazu Kartoffeln (23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Bio-Nudeln",
-      "description": "mit Tomaten-Basilikum-Soße und Käse (17,23)"
+      "title": "Maultaschensuppe",
+      "description": "mit Gemüsestreifen und Brot (17)"
     }
   ],
   "Do.": [
     {
       "menu": "Menü 1",
-      "title": "Indisches Linsengemüse Curry",
-      "description": "mit Reis (vegan)"
+      "title": "Sticky Tofu",
+      "description": "Tofu süß-sauer (22,27) mit Gemüse, Sesam und Reis"
     },
     {
       "menu": "Menü 2",
-      "title": "Hühnerfrikassee (23)",
-      "description": "mit Gemüse und Reis"
+      "title": "Chicken Tikka Masala (Indisch) (23)",
+      "description": "mit Basmati-Reis"
     }
   ],
   "Fr.": [
     {
       "menu": "Menü 1",
-      "title": "Kartoffelpfanne",
-      "description": "mit Gemüse und Ajvar Dip"
+      "title": "Grießbrei",
+      "description": "mit Erdbeerragout (17,23)"
     },
     {
       "menu": "Menü 2",
-      "title": "Paniertes Seelachs-Filet (17,20,23)",
-      "description": "mit Kartoffeln und Zitronen Dip"
+      "title": "Lachsfilet (20,23)",
+      "description": "mit Zitronensoße und Kartoffelecken"
     }
   ]
 }
